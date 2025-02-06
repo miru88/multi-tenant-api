@@ -13,12 +13,12 @@ MVP Goals:
 📅 MVP Timeline (2 Weeks Plan)
 
 Day 1: 🏗️ Project Setup
-- Initialize the NestJS project using the NestJS CLI:
+<!-- - Initialize the NestJS project using the NestJS CLI:
   nest new multi-tenant-api
 - Set up TypeORM and configure the PostgreSQL database connection.
 - Install necessary dependencies:
-  npm install @nestjs/typeorm typeorm pg
-- Set up environment variables (e.g., DATABASE_URL) for database configuration in .env.
+  npm install @nestjs/typeorm typeorm pg -->
+- Set up environment variables (e.g., DATABASE_URL) for database configuration in .env. //still need to figure out all variables
 
 Day 2: 👥 User & Role Management
 - Create User entity: Define user fields like id, email, password, role.
